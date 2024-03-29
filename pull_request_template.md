@@ -5,7 +5,7 @@ Example: `CORE-1234: Update foo feature`
 ### Description
 Describe the overall goals of the pull request's commits
 
-### Todos
+### Checks
 - [ ] 👍 (Thumb) Code has been reviewed
 - [ ] 🐟 (Fish) Change has been tested
 - [ ] ⚡ (Zap) DB Migrations and Rake Tasks have been reviewed
