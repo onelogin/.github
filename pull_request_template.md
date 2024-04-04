@@ -9,12 +9,12 @@ Describe the overall goals of the pull request's commits
 - [ ] 👍 (Thumb) Code has been reviewed
 - [ ] 🐟 (Fish) Change has been tested
 - [ ] ⚡ (Zap) DB Migrations and Rake Tasks have been reviewed
-- [ ] 👮 (Cop) Associated JIRA ticket has required fields
-  - [ ] Test Plan Required - Almost always "Yes". (We can't fish without a plan.)
-  - [ ] Test Components - Specify the state of the Test Plan
-  - [ ] Components - The Service that are affected (i.e., what will be released) 
-  - [ ] Fix Version - The tag of the targeted release (ex. Feb-2024)
-  - [ ] Behavior Change - Would a customer notice this change? 
+- [ ] 👮 (Cop) Associated JIRA ticket has **required fields** completed
+  - [ ] Test Plan Required
+  - [ ] Test Components
+  - [ ] Components
+  - [ ] Fix Version
+  - [ ] Behavior Change
   - [ ] QA Assignee
 
 ### Steps to Reproduce/Test Plan
