@@ -1,4 +1,4 @@
-### Title
+### Title2
 Title your PR as [Jira ticket: your description]
 Example: `CORE-1234: Update foo feature`
 
