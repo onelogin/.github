@@ -1,25 +1,13 @@
-### Title
+<!---
+Title your PR in the following format:
+<Jira ticket number>: <short description>
 
-Title your PR as [Jira ticket: your description]
-Example: `CORE-1234: Update foo feature`
+Example:
+ADMIN-1822: update navbar height to match portal
 
-### Description
+This is important to ensure the Jira ticket is kept in sync with automated processes
+that are parsing the ticket number with regular expressions
 
-Describe the overall goals of the pull request's commits
-
-### Checks
-
-- [ ] 👍 (Thumb) Code has been reviewed
-- [ ] 🐟 (Fish) Change has been tested
-- [ ] ⚡ (Zap) DB Migrations and Rake Tasks have been reviewed
-- [ ] 👮 (Cop) Associated JIRA ticket has **required fields** completed
-  - [ ] Test Plan Required
-  - [ ] Test Components
-  - [ ] Components
-  - [ ] Fix Version
-  - [ ] Behavior Change
-  - [ ] QA Assignee
-
-### Steps to Reproduce/Test Plan
-
-Outline the steps to test or reproduce.
+Multiple ticket numbers also work:
+ADMIN-1822, PORTAL-1343: unpdate nav bar heights in admin and portal
+-->
