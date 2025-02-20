@@ -1,7 +1,7 @@
 # Pull Request Instructions
 
 Title your PR in the following format:
-<Jira ticket number>: <short description>
+`<Jira ticket number>: <short description>`
 
 Example:
 ADMIN-1822: update navbar height to match portal
