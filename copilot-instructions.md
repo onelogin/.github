@@ -73,20 +73,6 @@ Used to group related User Stories and Bugs under a larger initiative or theme.
 
 ---
 
-### System Change (CAB)
-Used **exclusively** for Change Advisory Board (CAB) entries. Represents a production change request that requires CAB review and approval before deployment.
-
-**Key fields:**
-- **Title:** Brief description of the change (e.g. `Deploying 2026.1.0 release to Prod`)
-- **Description:** What is changing, which services/versions, deployment plan, rollback plan
-- **Area Path:** Typically `OID\Engineering\OneLogin\CAB`
-- **Risk:** Assess impact and risk level
-- **Linked items:** Link to related Bugs/User Stories that are part of the release
-
-> ⚠️ Only use the **System Change** work item type for CAB tickets. Do not use it for bugs, features, or tasks.
-
----
-
 ## Linking Work Items to Code
 
 - When creating PRs that fix ADO tickets, include the ADO ticket ID in the PR title (e.g. `ADO-645196: Fix Ultipro overwriting Authenticated By`)
