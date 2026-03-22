@@ -73,6 +73,11 @@ Used to group related User Stories and Bugs under a larger initiative or theme.
 
 ---
 
+### System Change
+Used exclusively for Change Advisory Board (CAB) production change requests. _This work item type is only used by the OneLogin team._
+
+---
+
 ## Linking Work Items to Code
 
 - When creating PRs that fix ADO tickets, include the ADO ticket ID in the PR title (e.g. `ADO-645196: Fix Ultipro overwriting Authenticated By`)
